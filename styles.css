@@ -1,0 +1,13 @@
+.container {
+  border: 3px solid #060;
+  height: 550px;
+}
+
+.ranger-container {
+  border: 1px solid red;
+}
+
+.ranger {
+  width: 120px;
+  height: 120px;
+}
